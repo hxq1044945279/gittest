@@ -2,3 +2,9 @@ hello √¿≈Æ
 
 I'am beautiful
 hahahahahahhahahaha
+
+
+$ git remote add origin git@github.com:hxq1044945279/gittest.git
+
+$ git push -u origin master
+
